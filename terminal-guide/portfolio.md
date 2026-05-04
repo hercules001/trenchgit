@@ -1,4 +1,5 @@
 ---
+description: Analyze your trading performance with detailed insights.
 icon: briefcase
 ---
 
@@ -14,21 +15,4 @@ This helps you understand not just where you stand, but how your trades are perf
 
 Refer to the table below to understand each section:
 
-| Section           | Description                                                        |
-| ----------------- | ------------------------------------------------------------------ |
-| Total Balance     | Shows the total value of your portfolio across all holdings.       |
-| Unrealized PnL    | Displays profit or loss on open positions that are not yet closed. |
-| Available Balance | Amount of funds currently available for trading.                   |
-| PnL Activity      | Visualizes your profit and loss performance over time.             |
-| Realized PnL      | Shows profits and losses from completed trades.                    |
-| PnL Calendar      | Displays daily trading performance in a calendar view.             |
-| Performance       | Summary of key trading metrics and overall performance.            |
-| Win Rate          | Percentage of profitable trades out of total trades.               |
-| Total Volume      | Total trading volume executed over the selected period.            |
-| Total TXN         | Total number of transactions made.                                 |
-| Avg Holding Time  | Average duration positions are held before closing.                |
-| PnL Distribution  | Visual breakdown of gains and losses across trades.                |
-| Active Positions  | Currently open trades and their status.                            |
-| History           | Record of all past trades and transactions.                        |
-| Top 100           | Highlights top performing tokens or positions.                     |
-| Activity          | Detailed log of all trading actions and events.                    |
+<table><thead><tr><th width="249.01171875">Section</th><th>Description</th></tr></thead><tbody><tr><td>Total Balance</td><td>Shows the total value of your portfolio across all holdings.</td></tr><tr><td>Unrealized PnL</td><td>Displays profit or loss on open positions that are not yet closed.</td></tr><tr><td>Available Balance</td><td>Amount of funds currently available for trading.</td></tr><tr><td>PnL Activity</td><td>Visualizes your profit and loss performance over time.</td></tr><tr><td>Realized PnL</td><td>Shows profits and losses from completed trades.</td></tr><tr><td>PnL Calendar</td><td>Displays daily trading performance in a calendar view.</td></tr><tr><td>Performance</td><td>Summary of key trading metrics and overall performance.</td></tr><tr><td>Win Rate</td><td>Percentage of profitable trades out of total trades.</td></tr><tr><td>Total Volume</td><td>Total trading volume executed over the selected period.</td></tr><tr><td>Total TXN</td><td>Total number of transactions made.</td></tr><tr><td>Avg Holding Time</td><td>Average duration positions are held before closing.</td></tr><tr><td>PnL Distribution</td><td>Visual breakdown of gains and losses across trades.</td></tr><tr><td>Active Positions</td><td>Currently open trades and their status.</td></tr><tr><td>History</td><td>Record of all past trades and transactions.</td></tr><tr><td>Top 100</td><td>Highlights top performing tokens or positions.</td></tr><tr><td>Activity</td><td>Detailed log of all trading actions and events.</td></tr></tbody></table>
