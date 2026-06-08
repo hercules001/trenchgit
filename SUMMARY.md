@@ -21,7 +21,6 @@
 ## Rewards
 
 * [Referrals & Cashbacks](rewards/referrals-and-cashbacks.md)
-* [Happy Hours (Coming Soon)](rewards/happy-hours-coming-soon.md)
 
 ## Account Safety
 
