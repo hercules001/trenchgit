@@ -1,6 +1,27 @@
 ---
 icon: sparkle
-coverY: -29.923502604166668
+coverY: 12.773032006920415
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Trench - Your Unfair Advantage
