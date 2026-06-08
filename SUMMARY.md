@@ -20,8 +20,7 @@
 
 ## Rewards
 
-* [Tiers & Cashbacks](rewards/tiers-and-cashbacks.md)
-* [Referrals](rewards/referrals.md)
+* [Referrals & Cashbacks](rewards/referrals-and-cashbacks.md)
 * [Happy Hours (Coming Soon)](rewards/happy-hours-coming-soon.md)
 
 ## Account Safety

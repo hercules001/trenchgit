@@ -11,7 +11,7 @@ Trench is an **alpha-first trading terminal** built to surface **real-time marke
 \
 By combining **capital flow, wallet behavior, and execution speed**, Trench helps you move with the market as it forms → not after it’s priced in → delivering **sub-500ms performance** and clarity, where most tools show you **price**, Trench shows you **intent**.\
 \
-**Supported Chains:** **Solana** with more coming soon&#x20;
+**Supported Chains:** **Solana & HyperLiquid** with more coming soon&#x20;
 
 ***
 
