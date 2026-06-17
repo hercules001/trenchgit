@@ -15,6 +15,7 @@
 * [Trade Setup](terminal-guide/trade-setup.md)
 * [Alpha](terminal-guide/alpha.md)
 * [Radar](terminal-guide/radar.md)
+* [Futures](terminal-guide/futures.md)
 * [Stream](terminal-guide/stream.md)
 * [Portfolio](terminal-guide/portfolio.md)
 
