@@ -1,7 +1,5 @@
 # Futures
 
-##
-
 {% tabs %}
 {% tab title="Future Basics" %}
 ## Futures Trading Basics
