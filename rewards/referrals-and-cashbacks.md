@@ -2,6 +2,7 @@
 description: >-
   Earn cashback on every trade and rewards from referrals, with the same
   structure across Spot and Perpetual trading.
+hidden: true
 icon: face-tongue-money
 ---
 

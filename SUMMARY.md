@@ -6,17 +6,12 @@
 
 * [Glossary](trading-basics/glossary.md)
 * [Fees](trading-basics/fees.md)
-* [Slippage](trading-basics/slippage.md)
 
 ## Terminal Guide
 
 * [Onboarding](terminal-guide/onboarding.md)
 * [Funds & Transfers](terminal-guide/funds-and-transfers.md)
-* [Trade Setup](terminal-guide/trade-setup.md)
-* [Alpha](terminal-guide/alpha.md)
-* [Radar](terminal-guide/radar.md)
 * [Futures](terminal-guide/futures.md)
-* [Stream](terminal-guide/stream.md)
 * [Portfolio](terminal-guide/portfolio.md)
 
 ## Rewards

@@ -6,6 +6,7 @@ layout:
   cover:
     visible: true
     size: full
+    mask: none
   title:
     visible: true
   description:
@@ -28,29 +29,8 @@ layout:
 
 ### What is Trench?
 
-Trench is an **alpha-first trading platform** built to surface real-time market positioning, so users can act on opportunities before they become obvious.
+Trench is a **global futures trading platform** that gives you **24/7 access** to the world's financial markets through a single terminal.
 
-In markets where most participants are reacting late, Trench focuses on understanding **who is positioning**, **where capital is flowing**, and **what is driving market behavior**.
+Trade **cryptocurrencies, stocks, commodities, indices, forex pairs, and pre-IPO markets** with professional trading tools, fast execution, and self-custodial security - all without traditional brokerage friction.
 
-By combining **market intelligence** and **execution**, Trench helps users move with the market as it forms rather than after opportunities are already priced in.
-
-Today, Trench supports **crypto** and **perpetual markets**, with additional market categories being explored over time.
-
-**Supported Chains:** Solana & Hyperliquid, with more coming soon.&#x20;
-
-***
-
-### Our Direction
-
-The goal is simple:
-
-**Provide users with everything they need to win.**
-
-By combining:
-
-* **Faster access to information**
-* **Better understanding of market behavior**
-* **Smarter execution**
-* **Access to global markets**
-
-We're building a platform where users can discover opportunities, understand context, and execute trades from a single place.
+Built on **Hyperliquid**, Trench combines advanced order types, leverage, portfolio management, and intelligent trading tools into one seamless experience. With **no KYC**, you can get started in seconds and trade global markets from anywhere.
