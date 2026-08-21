@@ -1,3 +1,7 @@
+---
+icon: radar
+---
+
 # Markets
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-08-21 at 08.26.07@2x.png" alt=""><figcaption></figcaption></figure>

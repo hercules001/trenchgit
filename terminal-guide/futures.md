@@ -4,6 +4,8 @@ icon: money-bill-trend-up
 
 # Futures
 
+
+
 {% tabs %}
 {% tab title="Future Basics" %}
 ## Futures Trading Basics
@@ -175,25 +177,96 @@ Futures markets provide:
 * The ability to hedge existing positions
 {% endtab %}
 
-{% tab title="How to Fund?" %}
-#### Option 1: Transfer from HyperCore
+{% tab title="How to Trade" %}
+Taking your first trade on Trench is simple. Choose a market, configure your position, review your order, and execute.
 
-If you already have funds on Hyperliquid, you can transfer them directly into your futures account through the Deposit panel.
+#### 1. Choose a Market
 
-This is the fastest method for existing Hyperliquid users and allows you to start trading immediately without bridging assets.
+Open the **Futures** section and select the asset you want to trade.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-06-17 at 15.19.27@2x.png" alt=""><figcaption></figcaption></figure>
+You can switch markets using the asset selector at the top-left of the trading interface. Review the chart and key market data before entering a position.
 
-***
+<figure><img src="../.gitbook/assets/Screenshot 2026-08-21 at 08.29.26@2x.png" alt=""><figcaption></figcaption></figure>
 
-#### Option 2: Bridge from Your Existing Trench Wallet
+#### 2. Choose Your Direction
 
-You can also fund your futures account using assets from your existing Trench wallet.
+Decide whether you want to **Long** or **Short**.
 
-Navigate to the **Bridge** section and transfer supported assets to your futures wallet. Funds will be converted and deposited as USDC collateral for futures trading.
+* **Long** — You profit if the asset price increases.
+* **Short** — You profit if the asset price decreases.
 
-Bridging is powered by our infrastructure partner - [Relay](https://relay.link) and typically completes within a few minutes.
+Select the corresponding button on the trading panel.
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-06-17 at 15.20.42@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-08-21 at 08.31.57@2x.png" alt=""><figcaption></figcaption></figure>
+
+#### 3. Set Your Leverage
+
+Choose your leverage using the leverage selector.
+
+Higher leverage gives you greater market exposure with less collateral, but also increases your risk. The maximum available leverage depends on the market.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-08-21 at 08.32.46@2x.png" alt=""><figcaption></figcaption></figure>
+
+#### 4. Choose Your Order Type
+
+Select how you want your order to execute:
+
+* **Market** — Execute immediately at the best available price.
+* **Limit** — Execute only at your selected price.
+*   **Advanced** — Access additional order types such as Stop Market, Stop Limit, TWAP, and Scale.\
+    <br>
+
+    <figure><img src="../.gitbook/assets/Screenshot 2026-08-21 at 08.33.26@2x.png" alt=""><figcaption></figcaption></figure>
+
+#### 5. Enter Your Position Size
+
+Enter the amount you want to use for the trade in **USDC**.
+
+Your order panel will show your **collateral amount** and resulting **position size** based on your selected leverage.
+
+You can also use the percentage selector to quickly allocate a portion of your available margin.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-08-21 at 08.34.46@2x.png" alt=""><figcaption></figcaption></figure>
+
+#### 6. Choose Margin Mode
+
+Select between:
+
+* **Cross** — Shares available margin across your positions.
+* **Isolated** — Keeps margin allocated to this position separately.
+
+Choose the mode that best fits your risk management approach.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-08-21 at 08.35.36.gif" alt=""><figcaption></figcaption></figure>
+
+#### 7. Add TP / SL
+
+You can optionally enable **Take Profit / Stop Loss (TP/SL)** before placing your order.
+
+These allow you to automatically manage your position when your target price or maximum acceptable loss is reached.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-08-21 at 08.38.12@2x.png" alt=""><figcaption></figcaption></figure>
+
+#### 8. Review & Place Your Order
+
+Before confirming, review your:
+
+* Direction
+* Leverage
+* Order type
+* Position size
+* Margin mode
+* Estimated liquidation price
+* TP/SL settings
+
+Once everything looks right, click **Place Order**.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-08-21 at 08.39.16.gif" alt=""><figcaption></figcaption></figure>
+
+Your position will then appear in the **Positions** tab below the chart, where you can monitor its size, entry price, liquidation price, unrealized PnL, and TP/SL.
+
+#### 9. Closing a Position
+
+To close a position, click **Close** and choose **Market Close** to exit immediately, or enter a **Limit Price** if you want more control over your execution price.<br>
 {% endtab %}
 {% endtabs %}

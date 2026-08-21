@@ -11,8 +11,8 @@
 
 * [Onboarding](terminal-guide/onboarding.md)
 * [Funds & Transfers](terminal-guide/funds-and-transfers.md)
-* [Futures](terminal-guide/futures.md)
 * [Markets](terminal-guide/markets.md)
+* [Futures](terminal-guide/futures.md)
 * [Calendar](terminal-guide/calendar.md)
 * [Portfolio](terminal-guide/portfolio.md)
 
