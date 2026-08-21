@@ -13,7 +13,7 @@ icon: play
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-04-15 at 10.10.43@2x (1).png" alt=""><figcaption></figcaption></figure>
 
-Open the Trench Terminal web app ([**trench.ag**](https://trench.ag)).
+Open the Trench Terminal web app ([**app.trench.ag**](https://app.trench.ag/)).
 
 Choose one of the available sign-in methods secured by Turnkey:
 
@@ -39,12 +39,7 @@ Once saved, proceed to the next step.
 {% step %}
 ### Explore the Interface
 
-<br>
-
-You’ll be shown a quick **visual overview of the terminal**.
-
-* Learn the layout and key sections
-* Or skip if you’re familiar
+* Take the **guided tour** to get familiar with the main sections of the Trench terminal, or skip it if you're ready to start trading.
 {% endstep %}
 
 {% step %}
@@ -52,32 +47,17 @@ You’ll be shown a quick **visual overview of the terminal**.
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-04-15 at 10.14.11@2x.png" alt=""><figcaption></figcaption></figure>
 
-Add funds to your Trench wallet using available methods.
-{% endstep %}
+Add funds to your Trench account using the available **fiat and crypto deposit methods**.
 
-{% step %}
-### Configure Quick Settings
-
-<figure><img src="../.gitbook/assets/Screenshot 2026-04-15 at 09.51.39@2x.png" alt=""><figcaption></figcaption></figure>
-
-Set up your default trading preferences:
-
-* **Default Buy Amount (SOL)**
-* **Slippage Tolerance**
-* **Priority Fee**
-* **Transaction Sounds**
-
-These settings help you trade faster and more consistently.
+You can fund your account through bank cards, Apple Pay, Google Pay, Cash App, exchange connections, Binance Pay, or crypto deposits.
 {% endstep %}
 
 {% step %}
 ### Start Trading
 
-You’re now ready to use Trench.
+Open the **Futures** section and select the market you want to trade.
 
-* Explore Alpha
-* Discover tokens
-* Execute trades instantly
+Choose your direction, leverage, margin mode, and order type, then enter your position and execute your trade.
 
 
 {% endstep %}

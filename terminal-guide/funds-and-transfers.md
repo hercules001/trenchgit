@@ -1,8 +1,8 @@
 ---
 description: >-
-  Trench integrates with trusted partners to provide fast deposits, smooth
-  withdrawals, and efficient cross-chain transfers - keeping your capital ready
-  at all times.
+  Fund your account and move capital seamlessly across fiat and crypto, with
+  support for cards, digital wallets, exchanges, and direct transfers - all from
+  one place.
 icon: lightbulb-dollar
 ---
 
@@ -10,85 +10,24 @@ icon: lightbulb-dollar
 
 {% tabs %}
 {% tab title="Deposits" %}
-Trench allows you to fund your wallet using multiple methods, depending on your preference.
+Fund your Trench account through **Unifold**, our supported funding provider. Trench does not charge any deposit fees.
 
-***
+<table><thead><tr><th width="271.5234375">Funding Method</th><th>Description</th></tr></thead><tbody><tr><td><strong>Bank Cards</strong></td><td>Deposit using supported debit or credit cards.</td></tr><tr><td><strong>Apple Pay</strong></td><td>Fund your account directly using Apple Pay.</td></tr><tr><td><strong>Google Pay</strong></td><td>Fund your account using Google Pay.</td></tr><tr><td><strong>Cash App</strong></td><td>Use Cash App to fund your Trench account.</td></tr><tr><td><strong>Exchange Connect</strong></td><td>Connect a supported exchange and transfer funds directly.</td></tr><tr><td><strong>Binance Pay</strong></td><td>Fund your account using Binance Pay.</td></tr><tr><td><strong>Crypto Deposits</strong></td><td>Deposit supported cryptocurrencies directly to your Trench wallet.</td></tr></tbody></table>
 
-#### Direct Transfer
+#### Fees
 
-You can deposit funds by sending tokens directly to your Trench wallet address.
+Unifold charges a **0.5% (50 bps)** funding fee.
 
-* Fast and simple
-* Works from any wallet or exchange
-
-***
-
-#### Connect Wallet
-
-You can connect your preferred browser wallet and use existing funds directly.
-
-* No need to transfer separately
-* Trade instantly using connected wallet
-
-***
-
-#### Cross-Chain Deposit&#x20;
-
-Deposit from another chain.
-
-* Select your source chain
-* Receive a deposit address via our partner ([Relay](https://relay.link/))
-* Funds are transferred to your Trench wallet
-
-Deposits typically take **1–2 minutes** depending on network conditions.
-
-***
-
-#### Deposit via Coinbase
-
-You can fund your wallet directly through [Coinbase](https://www.coinbase.com/).
-
-* Simple on-ramp experience
-* Buy and deposit in one flow
-
-***
-
-> #### Fees
->
-> * Trench does **not charge deposit fees**
-> * Any fees are handled by the bridging partner
+**Trench does not charge any additional fees for deposits.**
 {% endtab %}
 
 {% tab title="Withdrawals" %}
-Trench allows you to withdraw funds either within the same chain or across chains.
+### Withdrawals
 
-***
+Trench currently supports two withdrawal routes:
 
-#### Same-Chain Withdrawal
+<table><thead><tr><th width="234.55859375">Withdrawal Route</th><th width="120.13671875">Fee</th><th>Description</th></tr></thead><tbody><tr><td><strong>Trench → Hyperliquid</strong></td><td><strong>$0</strong></td><td>Transfer funds directly to your Hyperliquid wallet with no withdrawal fee.</td></tr><tr><td><strong>Trench → Arbitrum</strong></td><td><strong>$1</strong></td><td>Withdraw funds to an Arbitrum wallet.</td></tr></tbody></table>
 
-You can withdraw funds by selecting the native token and entering a destination address.
-
-* Direct transfer on the same chain
-* Fast and straightforward
-* Suitable for sending funds to wallets or exchanges
-
-***
-
-#### Cross-Chain Withdrawal
-
-You can send supported native tokens to another chain.
-
-* Select destination chain
-* Enter receiving address
-* Powered by our partner ([Relay](https://relay.link/))
-
-Cross-chain withdrawals typically take **up to 2 minutes**, depending on network conditions.
-
-***
-
-> #### Fees
->
-> * Trench does **not charge withdrawal fees**
-> * Any fees are handled by the bridging partner
+**Note:** Trench does not charge any additional withdrawal fees. More withdrawal options are coming soon.
 {% endtab %}
 {% endtabs %}
