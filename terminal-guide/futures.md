@@ -1,10 +1,12 @@
 ---
+description: >-
+  Everything you need to understand and trade futures on Trench - from the
+  basics of perpetual contracts, leverage, margin, and order types to placing
+  and managing your first trade.
 icon: money-bill-trend-up
 ---
 
 # Futures
-
-
 
 {% tabs %}
 {% tab title="Future Basics" %}
