@@ -24,7 +24,7 @@
 
 * [Security Model](account-safety/security-model.md)
 * [Known Risks](account-safety/known-risks.md)
-* [Restricted Jurisdictions](account-safety/restricted-jurisdictions.md)
+* [Legal & Compliance](account-safety/legal-and-compliance.md)
 
 ## Help
 
