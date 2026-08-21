@@ -58,12 +58,6 @@ Futures trading on Trench uses USDC as collateral.
 
 ***
 
-### Is there a referral program?
-
-Yes. Trench offers a multi-level referral program and 35% cashback on eligible trading fees.
-
-***
-
 ### Is Trench available on mobile?
 
 Yes. Trench works on both desktop and mobile browsers, with native mobile applications planned for the future.
