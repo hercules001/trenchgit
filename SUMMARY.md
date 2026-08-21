@@ -31,3 +31,4 @@
 * [FAQs](help/faqs.md)
 * [Common Errors](help/common-errors.md)
 * [Support](help/support.md)
+* [Changelogs](help/changelogs.md)
