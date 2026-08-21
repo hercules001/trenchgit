@@ -13,10 +13,7 @@ Trench operates as a **self-directed trading terminal**. Users remain responsibl
 
 ### Legal Documents
 
-| Document                                                   | Description                                                                                                                                                                                    |
-| ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**Terms of Use**](https://www.trench.ag/tos)              | The terms governing your access to and use of Trench, including eligibility, restricted jurisdictions, user responsibilities, risks, fees, third-party services, and limitations of liability. |
-| [**Privacy Policy**](https://www.trench.ag/privacy-policy) | Explains how Trench collects, uses, stores, and handles information in connection with the Website and Service.                                                                                |
+<table><thead><tr><th width="196.0703125">Document</th><th>Description</th></tr></thead><tbody><tr><td><a href="https://www.trench.ag/tos"><strong>Terms of Use</strong></a></td><td>The terms governing your access to and use of Trench, including eligibility, restricted jurisdictions, user responsibilities, risks, fees, third-party services, and limitations of liability.</td></tr><tr><td><a href="https://www.trench.ag/privacy-policy"><strong>Privacy Policy</strong></a></td><td>Explains how Trench collects, uses, stores, and handles information in connection with the Website and Service.</td></tr></tbody></table>
 
 #### Your Responsibility
 

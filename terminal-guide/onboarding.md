@@ -1,6 +1,6 @@
 ---
 description: >-
-  Get started with Trench in a few simple steps — from account setup to your
+  Get started with Trench in a few simple steps - from account setup to your
   first trade.
 icon: play
 ---
@@ -11,9 +11,9 @@ icon: play
 {% step %}
 ### Sign in to Trench
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-04-15 at 10.10.43@2x (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-08-21 at 09.18.02@2x.png" alt=""><figcaption></figcaption></figure>
 
-Open the Trench Terminal web app ([**app.trench.ag**](https://app.trench.ag/)).
+Open the Trench Terminal web app ([**app.trench.ag**](https://app.trench.ag/)) and click on Connect on top right.
 
 Choose one of the available sign-in methods secured by Turnkey:
 
@@ -24,28 +24,25 @@ Complete the authentication flow to access your account.
 {% endstep %}
 
 {% step %}
-### Save Your Recovery Key
+### Agree to the Terms
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-04-15 at 09.43.53@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-08-21 at 09.19.35@2x.png" alt=""><figcaption></figcaption></figure>
 
-After signing in, you will be shown your **recovery key**.
+After signing up, review the **Terms of Use** and **Privacy Policy**, then tick the checkbox to confirm your agreement.
 
-* Save it securely
-* This is required to recover your account
-
-Once saved, proceed to the next step.
+Click **Get Started** to continue to your Trench account.
 {% endstep %}
 
 {% step %}
 ### Explore the Interface
 
-* Take the **guided tour** to get familiar with the main sections of the Trench terminal, or skip it if you're ready to start trading.
+Take the **guided tour** to get familiar with the main sections of the Trench terminal, or skip it if you're ready to start trading.
 {% endstep %}
 
 {% step %}
 ### Fund Your Wallet
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-04-15 at 10.14.11@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-08-21 at 09.20.15@2x.png" alt=""><figcaption></figcaption></figure>
 
 Add funds to your Trench account using the available **fiat and crypto deposit methods**.
 
@@ -53,13 +50,10 @@ You can fund your account through bank cards, Apple Pay, Google Pay, Cash App, e
 {% endstep %}
 
 {% step %}
-### Start Trading
+### You’re Ready to Trade
 
-Open the **Futures** section and select the market you want to trade.
+You’re all set to start exploring Trench and trading global markets.
 
-Choose your direction, leverage, margin mode, and order type, then enter your position and execute your trade.
-
-
+If you skipped funding during onboarding, you can **deposit funds anytime** using the available funding methods. [Learn how to deposit →](funds-and-transfers.md#deposits)
 {% endstep %}
 {% endstepper %}
-
