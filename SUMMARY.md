@@ -10,9 +10,10 @@
 ## Terminal Guide
 
 * [Onboarding](terminal-guide/onboarding.md)
-* [Calendar](terminal-guide/calendar.md)
 * [Funds & Transfers](terminal-guide/funds-and-transfers.md)
 * [Futures](terminal-guide/futures.md)
+* [Markets](terminal-guide/markets.md)
+* [Calendar](terminal-guide/calendar.md)
 * [Portfolio](terminal-guide/portfolio.md)
 
 ## Rewards
