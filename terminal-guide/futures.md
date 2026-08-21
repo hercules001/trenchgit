@@ -1,3 +1,7 @@
+---
+icon: money-bill-trend-up
+---
+
 # Futures
 
 {% tabs %}

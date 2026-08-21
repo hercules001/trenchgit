@@ -1,18 +1,16 @@
 ---
-description: Analyze your trading performance with detailed insights.
+description: >-
+  Your complete view of trading performance, positions, and account activity -
+  all in one place.
 icon: briefcase
 ---
 
 # Portfolio
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-04 at 10.38.21@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-08-21 at 07.52.14@2x.png" alt=""><figcaption></figcaption></figure>
 
-The Portfolio section gives you a complete view of your trading performance — from balances and open positions to detailed PnL insights.
-
-You can **toggle between different timeframes** to analyze performance over specific periods, and switch between **wallets** to view activity across accounts.
-
-This helps you understand not just where you stand, but how your trades are performing over time and across strategies.
+The Portfolio gives you a clear picture of how your account is performing over time. Track your PnL, margin, positions, trading activity, and account value, while switching between different time periods and wallets to understand your performance from every angle.
 
 Refer to the table below to understand each section:
 
-<table><thead><tr><th width="249.01171875">Section</th><th>Description</th></tr></thead><tbody><tr><td>Total Balance</td><td>Shows the total value of your portfolio across all holdings.</td></tr><tr><td>Unrealized PnL</td><td>Displays profit or loss on open positions that are not yet closed.</td></tr><tr><td>Available Balance</td><td>Amount of funds currently available for trading.</td></tr><tr><td>PnL Activity</td><td>Visualizes your profit and loss performance over time.</td></tr><tr><td>Realized PnL</td><td>Shows profits and losses from completed trades.</td></tr><tr><td>PnL Calendar</td><td>Displays daily trading performance in a calendar view.</td></tr><tr><td>Performance</td><td>Summary of key trading metrics and overall performance.</td></tr><tr><td>Win Rate</td><td>Percentage of profitable trades out of total trades.</td></tr><tr><td>Total Volume</td><td>Total trading volume executed over the selected period.</td></tr><tr><td>Total TXN</td><td>Total number of transactions made.</td></tr><tr><td>Avg Holding Time</td><td>Average duration positions are held before closing.</td></tr><tr><td>PnL Distribution</td><td>Visual breakdown of gains and losses across trades.</td></tr><tr><td>Active Positions</td><td>Currently open trades and their status.</td></tr><tr><td>History</td><td>Record of all past trades and transactions.</td></tr><tr><td>Top 100</td><td>Highlights top performing tokens or positions.</td></tr><tr><td>Activity</td><td>Detailed log of all trading actions and events.</td></tr></tbody></table>
+<table><thead><tr><th width="211.31640625">Section</th><th>Description</th></tr></thead><tbody><tr><td><strong>Account Value</strong></td><td>Shows your current account value and overall PnL at a glance.</td></tr><tr><td><strong>Performance</strong></td><td>Tracks your overall trading performance, including win rate and trading activity.</td></tr><tr><td><strong>Margin Usage</strong></td><td>Shows how much of your available margin is currently being used.</td></tr><tr><td><strong>Direction Bias</strong></td><td>Shows the balance between your Long and Short positioning.</td></tr><tr><td><strong>PnL History</strong></td><td>Visualizes your realized PnL over time. Toggle between different time periods to analyze performance.</td></tr><tr><td><strong>Account Value</strong></td><td>Switch the chart to view how your total account value has changed over time.</td></tr><tr><td><strong>Account Overview</strong></td><td>Provides key account metrics including equity, unrealized PnL, ROE, volume, and trading activity.</td></tr><tr><td><strong>Asset Positions</strong></td><td>View your open positions, including leverage, size, entry price, current price, liquidation price, margin, PnL, and funding.</td></tr><tr><td><strong>Open Orders</strong></td><td>View and manage your pending orders that have not yet been filled.</td></tr><tr><td><strong>Recent Fills</strong></td><td>Review recently executed trades and their execution details.</td></tr><tr><td><strong>Deposits &#x26; Withdrawals</strong></td><td>View your account's deposit and withdrawal history.</td></tr><tr><td><strong>Time Filters</strong></td><td>Toggle between <strong>1D, 7D, 30D, and All Time</strong> to analyze performance across different periods.</td></tr></tbody></table>

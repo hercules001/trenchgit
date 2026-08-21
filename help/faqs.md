@@ -4,121 +4,70 @@ icon: clipboard-question
 
 # FAQs
 
-<details>
+### What is Trench?
 
-<summary>What is Trench?</summary>
+Trench is a global futures trading platform that provides 24/7 access to cryptocurrencies, stocks, commodities, indices, foreign exchange (FX), and pre-IPO markets from a single terminal.
 
-Trench is an alpha-first trading terminal designed to help users discover and act on early opportunities in crypto markets.
+***
 
-It combines wallet intelligence, live transaction streams, and trading into a single interface — allowing you to track capital flows and execute trades in real time.
+### What markets can I trade?
 
-</details>
+You can trade perpetual futures across cryptocurrencies, global equities, commodities, indices, foreign exchange (FX), and selected pre-IPO markets.
 
-<details>
+***
 
-<summary>Is Trench a wallet?</summary>
+### Is Trench available 24/7?
 
-Yes — Trench is a wallet-integrated trading platform.
+Yes. Perpetual futures markets on Trench are available around the clock, allowing you to trade global markets anytime.
 
-* You trade directly from your wallet
-* You retain full control of your funds
-* No assets are held by Trench
+***
 
-</details>
+### Do I need to complete KYC?
 
-<details>
+No. Trench is designed to provide a seamless onboarding experience without mandatory KYC requirements.
 
-<summary>What are smart wallets?</summary>
+***
 
-Smart wallets are dynamically selected based on:
+### Are my funds self-custodied?
 
-* Win rate
-* PnL
-* Consistency
-* Early entry behavior
+Yes. Trench is self-custodial, meaning you remain in control of your assets while benefiting from secure wallet infrastructure powered by Turnkey.
 
-The list updates continuously to maintain signal quality.
+***
 
-</details>
+### What powers Trench?
 
-<details>
+Perpetual trading on Trench is powered by Hyperliquid, providing deep liquidity, fast execution, and access to global futures markets.
 
-<summary>What are KOL streams?</summary>
+***
 
-KOL streams track activity from 300+ curated trader wallets.
+### Which order types are supported?
 
-* Follow influential traders
-* Identify early narrative alignment
-* Detect coordinated buying
+Trench supports Market, Limit, Stop Market, Stop Limit, TWAP, and Scale orders, along with built-in Take Profit and Stop Loss.
 
-</details>
+***
 
-<details>
+### Can I trade with leverage?
 
-<summary>How do fees work?</summary>
+Yes. Trench supports leveraged futures trading, with maximum leverage depending on the selected market.
 
-Fees are calculated on the **transaction amount**.
+***
 
-* **1% fee** for standard users
-* **0.9% fee** for referred users
+### What assets can I use as collateral?
 
-\
-&#xNAN;_&#x46;or example, a $100 trade incurs a $1 or $0.9 fee depending on user type._
+Futures trading on Trench uses USDC as collateral.
 
-**Note:**\
-Priority fees, bribes, and Solana network fees are **separate** and not included in the trading fee. These are paid additionally based on execution preferences and network conditions.
+***
 
-All fees are shown before execution.
+### Is there a referral program?
 
-</details>
+Yes. Trench offers a multi-level referral program and 35% cashback on eligible trading fees.
 
-<details>
+***
 
-<summary>Is Trench secure?</summary>
+### Is Trench available on mobile?
 
-Trench is **non-custodial**.
+Yes. Trench works on both desktop and mobile browsers, with native mobile applications planned for the future.
 
-* Funds remain in your wallet at all times
-* All transactions require your explicit user action
+***
 
-Trench leverages secure wallet infrastructure powered by Turnkey, which includes:
-
-* **TEE-based (Trusted Execution Environment) key protection**
-* **Encrypted key management**
-* **Secure transaction signing**
-
-In addition, Trench follows **industry-standard security practices** on the platform side, including:
-
-* Secure backend systems
-* Encrypted communication
-* Continuous monitoring and improvements
-
-This ensures a balance of **user control and strong security guarantees** while trading.
-
-</details>
-
-<details>
-
-<summary>Why did my transaction fail?</summary>
-
-Possible reasons:
-
-* Slippage exceeded
-* Network congestion
-* Insufficient balance
-* Transaction Time-out
-
-</details>
-
-<details>
-
-<summary>Do I need to monitor everything manually?</summary>
-
-No.
-
-* Streams highlight key activity
-* Wallet tracking surfaces signals
-* Filters reduce noise
-
-</details>
-
+###
