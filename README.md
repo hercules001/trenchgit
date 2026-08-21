@@ -1,12 +1,7 @@
 ---
 icon: sparkle
-coverY: 12.773032006920415
 layout:
   width: default
-  cover:
-    visible: true
-    size: full
-    mask: none
   title:
     visible: true
   description:
